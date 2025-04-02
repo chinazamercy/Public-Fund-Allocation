@@ -9,3 +9,7 @@ S
 #contracts/expenditure-tracking.clar,7/c/7cc77716ed240d79986c709ed28d0d7ac1339005
 R
 "tests/expenditure-tracking.test.ts,0/6/066ba4c537a8938aee30b1f33c685b298708b0ce
+W
+'contracts/procurement-verification.clar,0/c/0caf6672e96eaed145728319015bc340b90971d8
+V
+&tests/procurement-verification.test.ts,a/5/a5b23accad35cc15174e087b9cc201674648f97b
